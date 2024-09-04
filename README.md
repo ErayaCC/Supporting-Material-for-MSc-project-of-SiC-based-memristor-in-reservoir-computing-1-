@@ -1,0 +1,1 @@
+# Supporting-Material-for-MSc-project-of-SiC-based-memristor-in-reservoir-computing-1-
